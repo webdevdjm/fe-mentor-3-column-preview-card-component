@@ -27,12 +27,18 @@ Users should be able to:
 
 ### Screenshot
 
+#### Desktop
+
 ![](./screenshot.png)
+
+#### Mobile
+
+![](./screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html5-scss-flexbox-xv80RwiP0)
-- Live Site URL: [Add live site URL here](https://fe-mentor-3-column-preview-card-component.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/html5-scss-flexbox-xv80RwiP0]
+- Live Site URL: [https://fe-mentor-3-column-preview-card-component.vercel.app/]
 
 ## My process
 
